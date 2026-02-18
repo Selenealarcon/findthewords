@@ -617,14 +617,14 @@ function App() {
         )}
       </main>
       <footer>
-        <p>&copy;2026 Selene Alarcón - Desarrolladora Web</p>
+        <p>&copy;2026 Selene Alarcón - Web developer</p>
         <ul>
           <li>
             <a href="https://github.com/Selenealarcon">
               <img
                 src={`${process.env.PUBLIC_URL}//github.svg`}
-                alt="Perfil de Github de Selene Alarcón"
-                title="Perfil en Github"
+                alt="Github profile of Selene Alarcón"
+                title="Github profile"
                 class="svg-icon"
               />
             </a>
@@ -633,8 +633,8 @@ function App() {
             <a href="https://www.linkedin.com/in/selene-alarcon/">
               <img
                 src={`${process.env.PUBLIC_URL}/linkedin.svg`}
-                alt="Perfil de LinkedIn de Selene Alarcón"
-                title="Perfil en Linkedin"
+                alt="LinkedIn profile of Selene Alarcón"
+                title="LinkedIn profile"
                 class="svg-icon"
               />
             </a>
