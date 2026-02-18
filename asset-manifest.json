@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/findthewords/static/css/main.bfc4d7df.css",
-    "main.js": "/findthewords/static/js/main.18db5f8b.js",
+    "main.js": "/findthewords/static/js/main.4b4e92a0.js",
     "static/js/453.699dc412.chunk.js": "/findthewords/static/js/453.699dc412.chunk.js",
     "index.html": "/findthewords/index.html",
     "main.bfc4d7df.css.map": "/findthewords/static/css/main.bfc4d7df.css.map",
-    "main.18db5f8b.js.map": "/findthewords/static/js/main.18db5f8b.js.map",
+    "main.4b4e92a0.js.map": "/findthewords/static/js/main.4b4e92a0.js.map",
     "453.699dc412.chunk.js.map": "/findthewords/static/js/453.699dc412.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfc4d7df.css",
-    "static/js/main.18db5f8b.js"
+    "static/js/main.4b4e92a0.js"
   ]
 }
